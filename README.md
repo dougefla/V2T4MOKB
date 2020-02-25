@@ -9,7 +9,7 @@
 
 # BugReport
 
-- 在打开任一KB后出现:  
+- [Fixed]在打开任一KB后出现:  
 `
 Traceback (most recent call last):
   File "d:/V2T4MOKB/dev/Adjacency Graph-v0.1.1/OntologyKB-v0.0.6.py", line 367, in <module>
